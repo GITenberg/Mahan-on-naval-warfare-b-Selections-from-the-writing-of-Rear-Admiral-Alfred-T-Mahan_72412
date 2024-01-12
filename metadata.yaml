@@ -1,0 +1,47 @@
+_repo: Mahan-on-naval-warfare-b-Selections-from-the-writing-of-Rear-Admiral-Alfred-T-Mahan_72412
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mahan, A. T. (Alfred Thayer)
+    aliases:
+    - Mahan, Alfred Thayer
+    - Mahan, Alfred T.
+    birthdate: 1840
+    deathdate: 1914
+    gutenberg_agent_id: '5116'
+    url: http://www.gutenberg.org/2009/agents/5116
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Thayer_Mahan
+  editor:
+    agent_name: Westcott, Allan F. (Allan Ferguson)
+    alias: Westcott, Allan Ferguson
+    birthdate: 1882
+    deathdate: 1953
+    gutenberg_agent_id: '26740'
+    url: http://www.gutenberg.org/2009/agents/26740
+description: ''
+gutenberg_issued: '2023-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72412'
+  lccn: '18017218'
+language: en
+pgterms:marc904: https://archive.org/details/mahanonnavalwar00maha
+pgterms:marc905: 20210614203358mahan
+pgterms:marc906: '1890'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aBoston :$bLittle, Brown, $c1890, copyright 1901, copyright
+  1911, copyright 1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sea-power'
+- !lcsh 'Naval art and science'
+- !lcsh 'Naval strategy'
+- !lcc 'V'
+- GITenberg
+title: 'Mahan on naval warfare : $b Selections from the writing of Rear Admiral Alfred
+  T. Mahan'
+url: http://www.gutenberg.org/ebooks/72412
