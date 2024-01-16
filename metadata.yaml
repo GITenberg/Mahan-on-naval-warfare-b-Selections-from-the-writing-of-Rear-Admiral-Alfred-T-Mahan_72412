@@ -1,5 +1,8 @@
 _repo: Mahan-on-naval-warfare-b-Selections-from-the-writing-of-Rear-Admiral-Alfred-T-Mahan_72412
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72412-h/images/cover.jpg
 creator:
   author:
     agent_name: Mahan, A. T. (Alfred Thayer)
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '26740'
     url: http://www.gutenberg.org/2009/agents/26740
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72412#Mahan-on-naval-warfare-b-Selections-from-the-writing-of-Rear-Admiral-Alfred-T-Mahan
 gutenberg_issued: '2023-12-14'
 gutenberg_type: Text
 identifiers:
